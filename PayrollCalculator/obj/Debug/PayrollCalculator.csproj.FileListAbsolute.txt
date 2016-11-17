@@ -1,0 +1,12 @@
+c:\users\saurabh\documents\visual studio 2013\Projects\PayrollCalculator\PayrollCalculator\bin\Debug\PayrollCalculator.exe.config
+c:\users\saurabh\documents\visual studio 2013\Projects\PayrollCalculator\PayrollCalculator\bin\Debug\PayrollCalculator.exe
+c:\users\saurabh\documents\visual studio 2013\Projects\PayrollCalculator\PayrollCalculator\bin\Debug\PayrollCalculator.pdb
+c:\users\saurabh\documents\visual studio 2013\Projects\PayrollCalculator\PayrollCalculator\obj\Debug\PayrollCalculator.csprojResolveAssemblyReference.cache
+c:\users\saurabh\documents\visual studio 2013\Projects\PayrollCalculator\PayrollCalculator\obj\Debug\PayrollCalculator.exe
+c:\users\saurabh\documents\visual studio 2013\Projects\PayrollCalculator\PayrollCalculator\obj\Debug\PayrollCalculator.pdb
+D:\Projects\Payroll-master\PayrollCalculator\bin\Debug\PayrollCalculator.exe.config
+D:\Projects\Payroll-master\PayrollCalculator\obj\Debug\PayrollCalculator.exe
+D:\Projects\Payroll-master\PayrollCalculator\obj\Debug\PayrollCalculator.pdb
+D:\Projects\Payroll-master\PayrollCalculator\bin\Debug\PayrollCalculator.exe
+D:\Projects\Payroll-master\PayrollCalculator\bin\Debug\PayrollCalculator.pdb
+D:\Projects\Payroll-master\PayrollCalculator\obj\Debug\PayrollCalculator.csprojResolveAssemblyReference.cache

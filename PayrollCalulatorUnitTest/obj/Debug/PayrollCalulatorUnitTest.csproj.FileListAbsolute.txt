@@ -1,0 +1,16 @@
+c:\users\saurabh\documents\visual studio 2013\Projects\PayrollCalculator\PayrollCalulatorUnitTest\bin\Debug\PayrollCalulatorUnitTest.dll
+c:\users\saurabh\documents\visual studio 2013\Projects\PayrollCalculator\PayrollCalulatorUnitTest\bin\Debug\PayrollCalulatorUnitTest.pdb
+c:\users\saurabh\documents\visual studio 2013\Projects\PayrollCalculator\PayrollCalulatorUnitTest\bin\Debug\PayrollCalculator.exe
+c:\users\saurabh\documents\visual studio 2013\Projects\PayrollCalculator\PayrollCalulatorUnitTest\bin\Debug\PayrollCalculator.pdb
+c:\users\saurabh\documents\visual studio 2013\Projects\PayrollCalculator\PayrollCalulatorUnitTest\obj\Debug\PayrollCalulatorUnitTest.csprojResolveAssemblyReference.cache
+c:\users\saurabh\documents\visual studio 2013\Projects\PayrollCalculator\PayrollCalulatorUnitTest\obj\Debug\PayrollCalulatorUnitTest.dll
+c:\users\saurabh\documents\visual studio 2013\Projects\PayrollCalculator\PayrollCalulatorUnitTest\obj\Debug\PayrollCalulatorUnitTest.pdb
+D:\Projects\Payroll-master\PayrollCalulatorUnitTest\bin\Debug\PayrollCalulatorUnitTest.dll
+D:\Projects\Payroll-master\PayrollCalulatorUnitTest\bin\Debug\PayrollCalulatorUnitTest.pdb
+D:\Projects\Payroll-master\PayrollCalulatorUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Projects\Payroll-master\PayrollCalulatorUnitTest\bin\Debug\PayrollCalculator.exe
+D:\Projects\Payroll-master\PayrollCalulatorUnitTest\bin\Debug\PayrollCalculator.pdb
+D:\Projects\Payroll-master\PayrollCalulatorUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\Projects\Payroll-master\PayrollCalulatorUnitTest\obj\Debug\PayrollCalulatorUnitTest.csprojResolveAssemblyReference.cache
+D:\Projects\Payroll-master\PayrollCalulatorUnitTest\obj\Debug\PayrollCalulatorUnitTest.dll
+D:\Projects\Payroll-master\PayrollCalulatorUnitTest\obj\Debug\PayrollCalulatorUnitTest.pdb
